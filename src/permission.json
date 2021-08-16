@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "leather-watch",
+  "private_key_id": "9f17c5727383a465ddf86b5202f967f489de294f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCkWPmqhdoIi3kp\n8oxWZW5qjanDqsTihuK2MGKwhV6KEp5BbyJ3AtJgmtcqHLDempXGPFrdYu/jRmua\n9EdkDpugml8QJxAW/w+O+gPA5Uw/Cgw/s/XUdNQi3LJR5Ur61ofQRYk6uNHIRWkL\nToMCdjvJ8fzFw5iCvjGGpAlw5QaFWcyd9RV7uMV8m01fAU1lXVPcl6ErGoTDexux\n4wtLvPVu5kNkgCWquiR3f602mBYUoMgWQCP3wYCDoCTvCN2RkaRVFcLP7/YVg75C\nt6l0nCKlXeIFgz0L/X+8IQLCA051q/u+fPM7LD9bM8f+na8acDyQCrayS1bqovq+\nDCXtMcczAgMBAAECggEAAopjzFJfnScXQKIWIb0cj6J0Gn5238/R/kWuGcTrXlPw\nPeh9PJIwmJfvvOckMiWj1xY5/OxdD6aYJXjbeatizrnialMQQ/HaVpu1e5cBoEqE\nI7xoOnTIVWfaqPOpWxGMmF9pCTnMab21ZHHMQ1WzrndJops7PBotBrXPWVSJ60R0\nNUSIATQgldilfEOl9j9w8pM6LXkVcqzaFek0zB+nOC5VLja7y3+PltDdmkkz67Pu\nV8+tGQhfHJ+GmkZ1FZa/ScSTPQBY1J2XHF9bSOqcp8D2J+oQnBp9Z12oebRRY9FQ\nzWjJYQSStvytr1YX3ucsmNW2m0vfubumzQm0/O5UMQKBgQDVPDLdcOiTi8t1eoPx\ndOPol25OdQT1xlDnsb4LDLispDRiM5qHZ5lEmjyljk6KRk5sk7wcvolJwRW36IqD\nGWv+nG55MMMhjj0KAuV9QyKwQ5p5nQ68LjPhFAQoGO9l9FK1ZIWuAih/AQBIVCxP\n5Y4OhPgVULW0xZsEg4l17wfWnwKBgQDFTtEdYWxosjoyZ7Z3JLwbar1R3ElEXeVy\nz6OdXLhOrG3thM+MSnqOZ2UQoa6uVellg5PqEdJ8I0ySpEukEuPlRK01y2p43l/8\nW9XaXbFQiq7g+JluhJ67N/z/4d9MJFmfnpN01VsUhidP7qsSllM6rOHrMQDZ8onu\nwSYHbgYq7QKBgQC+CIY0PzmmtMFAE02fVFMAqGQP283t0y2rLwZ1BoNWqIhetCqV\nXciEEQjXanmoVXvy276bx1rGtiNK4R0ANRm/sV3q94APWZogX/Bxr/EsMTNsCoJl\nRq/JeXMy4PYJYLKNIebY6ud4OEYuL4XGNohhfDMzm9g0IJ9EaI2K4tmTdQKBgHC6\nJilWFvz+Dtfrf0k02LAFXOLfK5D+4G+nCACJD9gLFcclIPszNjAUDJ7i8Q0zkmRo\nN2L9CbfY5w/FBF5aWJANm7RnYo5p5ock5NqcuwicI2vvPKHy7UljpI2BO/Whsv7K\nN88BcscYGm/FmUHGVwjn6y9XUPg0ZO/etF58UtPFAoGAKrxqVAUfgX1I/hMCv9Mu\nrsmAglXpEBL2heDb7dszkmTBahDdISoNMrJWEffJ531iy//2K7o2VJ6w8ixegN5a\neftPuRj1xeI4t/pb0ZxgGOm2ygo6nvGsVv9cTWTB6vyogxqn5jO/sdqpfwnfYtuP\npl8d4voS52XavjTegb+Ir2k=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-j4pgp@leather-watch.iam.gserviceaccount.com",
+  "client_id": "101802684083381112193",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-j4pgp%40leather-watch.iam.gserviceaccount.com"
+}
