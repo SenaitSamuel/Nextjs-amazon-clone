@@ -38,7 +38,7 @@ function Header() {
       </div>
       {/* right*/}
       <div className="flex items-center text-xs space-x-6 text-white mx-6 whitespace-nowrap ">
-        <div onClick={() => router.push("/login")} className=" link  ">
+        <div className=" link  ">
           <p>
             {!session && (
               <>
