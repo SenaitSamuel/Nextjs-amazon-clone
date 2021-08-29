@@ -3,15 +3,13 @@ import firestore from "firebase/firestore"; // for cloud firestore
 
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyC9VDCMKOFqmCG5weJrXasYKr3suFNiWHU",
-  authDomain: "leather-watch.firebaseapp.com",
-  projectId: "leather-watch",
-  storageBucket: "leather-watch.appspot.com",
-  messagingSenderId: "168526130693",
-  appId: "1:168526130693:web:402af1b982668d43d6f66c",
-  measurementId: "G-26P6Q2RQWE",
+  apiKey: "AIzaSyBxbCNSXzUCAU5p0VuAb4iEnR1dfN_1-xc",
+  authDomain: "amz-clone-nextjs.firebaseapp.com",
+  projectId: "amz-clone-nextjs",
+  storageBucket: "amz-clone-nextjs.appspot.com",
+  messagingSenderId: "446780671753",
+  appId: "1:446780671753:web:57486afb1a46c9d1f2f5d8",
 };
-
 const app = !firebase.apps.length
   ? firebase.initializeApp(firebaseConfig)
   : firebase.app();
